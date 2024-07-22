@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PascalCompilier", "PascalCompilier\PascalCompilier.vcxproj", "{8C4A37A2-D798-4571-8D93-54560FD4B2F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C4A37A2-D798-4571-8D93-54560FD4B2F0}.Debug|x64.ActiveCfg = Debug|x64
+		{8C4A37A2-D798-4571-8D93-54560FD4B2F0}.Debug|x64.Build.0 = Debug|x64
+		{8C4A37A2-D798-4571-8D93-54560FD4B2F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C4A37A2-D798-4571-8D93-54560FD4B2F0}.Debug|x86.Build.0 = Debug|Win32
+		{8C4A37A2-D798-4571-8D93-54560FD4B2F0}.Release|x64.ActiveCfg = Release|x64
+		{8C4A37A2-D798-4571-8D93-54560FD4B2F0}.Release|x64.Build.0 = Release|x64
+		{8C4A37A2-D798-4571-8D93-54560FD4B2F0}.Release|x86.ActiveCfg = Release|Win32
+		{8C4A37A2-D798-4571-8D93-54560FD4B2F0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {740BBF00-5214-419E-BAEB-3610F1868E27}
+	EndGlobalSection
+EndGlobal

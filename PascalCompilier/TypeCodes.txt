@@ -1,0 +1,7 @@
+integersy 200
+floatsy 201
+stringsy 202
+charsy 203
+realsy 204
+booleansy 205
+void 2006

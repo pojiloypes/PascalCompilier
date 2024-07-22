@@ -1,0 +1,20 @@
+program pr1;
+var
+  a: integer := 22;
+  b: integer := 12345;
+  c: integer := 123;
+  f: float := 12.5;
+  s : string := 'awdwad';
+  hal: string := 'halal';
+  har: string;
+begin
+  writeln(41 + a - c);
+  s := 'ada' + 'd';
+  f := f - 10.5;
+  writeln(s);
+  writeln(f);
+  writeln((a/11)*3+(1-2));
+  har := 'haram';
+  writeln(hal + ' - horosho');
+  writeln(har + ' - ploho');
+end.
